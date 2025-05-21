@@ -1,9 +1,21 @@
-# Virtual environment folder
-venv/
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
 
-# Environment variables file (contains secrets)
+# Virtual environment
+venv/
 .env
 
-# Python cache files
-__pycache__/
-*.pyc
+# VSCode settings (optional)
+.vscode/
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Mac OS
+.DS_Store
+
+# Windows
+Thumbs.db
