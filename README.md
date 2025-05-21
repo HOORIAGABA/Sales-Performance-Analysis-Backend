@@ -1,5 +1,10 @@
 # Sales Performance Analysis Backend (Powered by Gemini LLM)
 
+
+![Python](https://img.shields.io/badge/Python-3.10+-blue)
+![License](https://img.shields.io/badge/License-MIT-green)
+![Framework](https://img.shields.io/badge/FastAPI-Modern%20Python%20API-brightgreen)
+
 This FastAPI application provides automated insights and strategic recommendations for sales teams using structured CSV/JSON data. It leverages Google Gemini (1.5 Flash) to generate human-like analytical feedback.
 
 ---
