@@ -50,7 +50,7 @@ SALES_ANALYSIS_BACKEND/
 ### 1. **Clone the repo**
    
    ```
-   git clone <your-repo-url>
+   git clone <https://github.com/HOORIAGABA/Sales-Performance-Analysis-Backend)>
    cd SALES_ANALYSIS_BACKEND
    ```
 
